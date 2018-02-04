@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "cbd51a7d_d165a00d",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/donation/DonationTopMenu.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1029953
+      },
+      "writtenOn": "2018-02-04T22:02:20Z",
+      "side": 1,
+      "message": "Make a Donation To Shawn (Gerrit\u0027s Founder)?",
+      "range": {
+        "startLine": 31,
+        "startChar": 33,
+        "endLine": 31,
+        "endChar": 49
+      },
+      "revId": "905d5bd77442f67a6c53d69cd7be160eb97ecd4f",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
