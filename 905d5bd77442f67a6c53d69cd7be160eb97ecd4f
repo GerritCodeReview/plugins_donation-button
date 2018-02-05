@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "0c00ac03_ac08af60",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/donation/DonationTopMenu.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2018-02-05T08:06:02Z",
+      "side": 1,
+      "message": "Too large, will occupy too much real estate on the page :-(",
+      "parentUuid": "cbd51a7d_d165a00d",
+      "range": {
+        "startLine": 31,
+        "startChar": 33,
+        "endLine": 31,
+        "endChar": 49
+      },
+      "revId": "905d5bd77442f67a6c53d69cd7be160eb97ecd4f",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "88372ab7_271d7422",
         "filename": "src/main/java/com/googlesource/gerrit/plugins/donation/DonationTopMenu.java",
         "patchSetId": 2
@@ -36,6 +60,30 @@
       "writtenOn": "2018-02-05T08:00:58Z",
       "side": 1,
       "message": "Replace this with the actual URL so that it\u0027s not obscured and users know where the link will take them.",
+      "range": {
+        "startLine": 34,
+        "startChar": 49,
+        "endLine": 34,
+        "endChar": 70
+      },
+      "revId": "905d5bd77442f67a6c53d69cd7be160eb97ecd4f",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "825724ee_8506c6fd",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/donation/DonationTopMenu.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2018-02-05T08:06:02Z",
+      "side": 1,
+      "message": "Yep, makes sense.",
+      "parentUuid": "88372ab7_271d7422",
       "range": {
         "startLine": 34,
         "startChar": 49,
