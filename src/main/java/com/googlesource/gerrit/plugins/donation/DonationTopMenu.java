@@ -30,8 +30,8 @@ public class DonationTopMenu implements TopMenu {
                         new TopMenu.MenuEntry(
                                 "MAKE A DONATION",
                                 Arrays.asList(
-                                        new MenuItem("Donate to Shawn Pearce Memorial Fund",
-                                                "https://www.gofundme.com/shawn-pearce-memorial-fund",
+                                        new MenuItem("Donate to Cancer Research UK",
+                                                "https://www.cancerresearchuk.org/support-us/donate",
                                                 "_blank",
                                                 "donate"))));
     }
