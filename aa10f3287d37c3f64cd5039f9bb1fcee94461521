@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "96427631_9fb4c4ef",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1010008
+      },
+      "writtenOn": "2018-03-12T15:15:15Z",
+      "side": 1,
+      "message": "I mean, open-source projects often ask for donations, because they have costs. Even if the developers volunteer their time, there are still hosting costs for things like code review and CI :). The reason we don\u0027t solicit donations is not that we don\u0027t have those costs, it\u0027s that those costs are already paid by companies like Google and GerritForge :)",
+      "range": {
+        "startLine": 3,
+        "startChar": 54,
+        "endLine": 4,
+        "endChar": 77
+      },
+      "revId": "aa10f3287d37c3f64cd5039f9bb1fcee94461521",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
