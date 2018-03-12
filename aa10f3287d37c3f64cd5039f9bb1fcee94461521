@@ -22,6 +22,30 @@
       "revId": "aa10f3287d37c3f64cd5039f9bb1fcee94461521",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3dc15fdf_d6a66868",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2018-03-12T15:17:37Z",
+      "side": 1,
+      "message": "Yes, the money comes in other forms and not directly from the service itself.\nA lot of people though, donate their free time without being paid for it!",
+      "parentUuid": "96427631_9fb4c4ef",
+      "range": {
+        "startLine": 3,
+        "startChar": 54,
+        "endLine": 4,
+        "endChar": 77
+      },
+      "revId": "aa10f3287d37c3f64cd5039f9bb1fcee94461521",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
